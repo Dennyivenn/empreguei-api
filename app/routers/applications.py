@@ -2,6 +2,6 @@ from fastapi import APIRouter
 
 router = APIRouter()
 
-@router.get("/")
-def listar_vagas():
-    return {"msg": "Lista de vagas"}
+@router.get("/applications")
+def get_applications():
+    return {"message": "List of applications"}
