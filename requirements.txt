@@ -1,1 +1,0 @@
-fastapiuvicornpsycopg2  # Se você estiver usando PostgreSQLSQLAlchemy  # Se estiver usando SQLAlchemy
